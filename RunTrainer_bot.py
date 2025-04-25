@@ -6,7 +6,7 @@ import random
 from telegram import Update
 from telegram.ext import Updater, CommandHandler, MessageHandler, filters, ConversationHandler, CallbackContext, ContextTypes, ApplicationBuilder
 
-bot = telebot.TeleBot("8115958836:AAGev4zcxpbL9ObR37RaFAZyTBbBkEuvJ5A")
+bot = telebot.TeleBot("КОД БОТА")
 # Переменная для хранения дистанции
 distance = 10
 comp_date_str = "2025-05-24"
